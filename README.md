@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aye Nandar Win</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Mobile Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayenandarwin](https://github.com/ayenandarwin)
 
